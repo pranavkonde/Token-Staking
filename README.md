@@ -18,7 +18,7 @@ You will need to deploy the following smart contracts to be used:
 To get started, clone the repository to your local machine:
 
 ```
-git clone https://github.com/web3hacks/staking
+git clone https://github.com/pranavkonde/Token-Staking
 
 ```
 
